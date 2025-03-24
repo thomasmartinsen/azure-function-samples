@@ -7,6 +7,7 @@ using Microsoft.Extensions.Hosting;
 var config = common.ConfigurationUtilities.GetConfigurationRoot<Program>();
 
 var builder = FunctionsApplication.CreateBuilder(args);
+builder.AddServiceDefaults();
 builder.ConfigureFunctionsWebApplication();
 builder.Configuration.AddConfiguration(config);
 
