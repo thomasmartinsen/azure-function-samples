@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.14.35906.104
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sample_01", "src\sample_01\sample_01.csproj", "{F73B4FB6-F265-4091-B6C0-DFAB7F621E9C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "azure_function_sample_01", "src\sample_01\azure_function_sample_01.csproj", "{F73B4FB6-F265-4091-B6C0-DFAB7F621E9C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "common", "src\common\common.csproj", "{9A32D53F-A77E-438B-8DD9-AB935BC462B7}"
 EndProject

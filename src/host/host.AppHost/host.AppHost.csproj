@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\sample_01\sample_01.csproj" />
+    <ProjectReference Include="..\..\sample_01\azure_function_sample_01.csproj" />
   </ItemGroup>
 
 </Project>
