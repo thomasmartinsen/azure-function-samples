@@ -17,7 +17,12 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\sample_01\azure_function_sample_01.csproj" />
+    <ProjectReference Include="..\..\azure_ai_agent\azure_ai_agent_sample_01\azure_ai_agent_sample_01.csproj" />
+    <ProjectReference Include="..\..\azure_ai_agent\azure_ai_agent_sample_02\azure_ai_agent_sample_02.csproj" />
+    <ProjectReference Include="..\..\azure_ai_agent\azure_ai_agent_sample_03\azure_ai_agent_sample_03.csproj" />
+    <ProjectReference Include="..\..\azure_ai_agent\azure_ai_agent_sample_04\azure_ai_agent_sample_04.csproj" />
+    <ProjectReference Include="..\..\azure_ai_agent\azure_ai_agent_sample_05\azure_ai_agent_sample_05.csproj" />
+    <ProjectReference Include="..\..\azure_function\azure_function_sample_01\azure_function_sample_01.csproj" />
   </ItemGroup>
 
 </Project>
