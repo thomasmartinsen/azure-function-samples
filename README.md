@@ -1,1 +1,1 @@
-# agent-ai-basic-01
+# Azure Function samples
